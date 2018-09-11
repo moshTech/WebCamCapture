@@ -22,10 +22,8 @@ OS X
 See JDK 8 and JRE 8 Installation for more information, including instructions for installing on Solaris or Linux.
 You now have a Java environment on your computer. Next, you'll install the Eclipse IDE and create a Java project in Eclipse
 Install Eclipse
-Follow along with this video demo to download and install Eclipse on your system, take a quick
+Follow along with this http://www.eclipse.org/downloads/ to download and install Eclipse on your system, take a quick
 Eclipse tour, and create a Java project.
-To view this video, Getting started with Eclipse , please access the online version of the article. If
-this article is in the developerWorks archives, the video is no longer accessible.
 Recap: The Eclipse development environment
 The Eclipse development environment has four main components:
     • Workspace
