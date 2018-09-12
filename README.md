@@ -6,6 +6,3 @@ The webCamCapture use your computer webcam to capture your image immediately aft
 # Library
 Download the .zip file in the folder. (WebCamCapture folder).
 
-# Intro to Java programming
-Learn Java language basics and master the constructs for building and deploying real-world applications by following the file included from unit 1 to unit 23
-
